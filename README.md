@@ -20,7 +20,7 @@ Nesta atividade, você deverá criar uma tabela representando um cronograma de e
 
 Para isso, siga o modelo apresentado na imagem abaixo:
 
-![Modelo de Tabela](image)
+![Modelo de Tabela](.github/table.jpg)
 
 Utilizando os conceitos aprendidos, crie uma tabela que atenda às necessidades propostas e proporcione uma boa visualização dos eventos, destacando horários simultâneos e informações específicas. Após finalizar o código, envie-o para o link fornecido do **GitHub Classroom**.
 
