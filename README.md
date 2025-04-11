@@ -5,8 +5,6 @@ Dando continuidade ao aprendizado, iniciaremos um dos pilares fundamentais do co
 
 Para aplicar esse conhecimento, você desenvolverá um pequeno código em HTML, criando uma tabela simples para representar um cronograma de eventos. Para darmos prosseguimento na etapa, entre no link abaixo e entre no **GitHub Classroom** (como na etapa anterior) e identifique seu nome! Será por lá a entrega dessa tarefa!
 
-✳️ **Link do Classroom**: ....
-
 ## Habilidades a Serem Desenvolvidas
 
 Nesta atividade, desenvolveremos as seguintes habilidades:
@@ -14,20 +12,7 @@ Nesta atividade, desenvolveremos as seguintes habilidades:
 - HTML: Conceitos Gerais
 - HTML: Utilizando "tables" (tabelas)
 
-## Conhecimento Envolvido
 
-Para reforçar o aprendizado, disponibilizamos materiais complementares:
-
-### 📌 Conteúdo Básico
-
-- Conceitos bases HTML
-  - [Conteúdo 1](#)
-  - [Conteúdo 2](#)
-
-### 📌 Conteúdo Extra
-
-- [Conteúdo 1](#)
-- [Conteúdo 2](#)
 
 ## Atividade Prática
 
